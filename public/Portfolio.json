@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "url": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+      "title": "Modern Book Layout Design",
+      "description": "A clean and professional book layout designed for both Kindle and paperback formats.",
+      "category": "Book Formatting"
+    },
+    {
+      "id": 2,
+      "url": "https://www.gstatic.com/webp/gallery/5.webp",
+      "title": "Elegant Ebook Formatting",
+      "description": "Stylish ebook formatting optimized for ePub and Kindle platforms.",
+      "category": "Ebook Formatting"
+    },
+    {
+      "id": 3,
+      "url": "https://www.gstatic.com/webp/gallery/4.jpg",
+      "title": "Custom WordPress Plugin Development",
+      "description": "A custom WordPress plugin developed to enhance user experience and functionality.",
+      "category": "WordPress Development"
+    },
+    {
+      "id": 4,
+      "url": "https://www.gstatic.com/webp/gallery/2.webp",
+      "title": "React Web App UI Design",
+      "description": "A fully responsive React-based web application with a modern UI/UX design.",
+      "category": "Web Development"
+    },
+    {
+      "id": 5,
+      "url": "https://www.gstatic.com/webp/gallery/1.webp",
+      "title": "Typography-focused Book Interior",
+      "description": "A beautifully formatted book interior with well-structured typography for easy readability.",
+      "category": "Book Formatting"
+    },
+    {
+      "id": 6,
+      "url": "https://img.daisyui.com/images/stock/photo-1593642532454-e1a9b6a23eb9.webp",
+      "title": "Interactive Website with JavaScript",
+      "description": "A dynamic and interactive website built using JavaScript and modern web technologies.",
+      "category": "Web Development"
+    },
+    {
+      "id": 7,
+      "url": "https://img.daisyui.com/images/stock/photo-1519337265831-281ec6cc8514.webp",
+      "title": "Custom WordPress Theme",
+      "description": "A fully customized WordPress theme built with performance and SEO in mind.",
+      "category": "WordPress Development"
+    },
+    {
+      "id": 8,
+      "url": "https://img.daisyui.com/images/stock/photo-1588702547923-7093a6c3ba34.webp",
+      "title": "Professional Business Card Design",
+      "description": "A sleek and modern business card design that enhances brand identity.",
+      "category": "Graphic Design"
+    },
+    {
+      "id": 9,
+      "url": "https://img.daisyui.com/images/stock/photo-1609949011665-d91635163e7b.webp",
+      "title": "Minimalist Logo Design",
+      "description": "A clean and professional minimalist logo designed for branding and marketing purposes.",
+      "category": "Graphic Design"
+    }
+  ]
+  

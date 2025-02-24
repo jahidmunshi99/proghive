@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@import 'daisyui/dist/full.css';
+
+.gradient-text {
+    background: linear-gradient(to right, #ff0080, #a855f7, #6366f1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+  }
+
+.gradient-border {
+    border: 2px solid;
+    border-image-source: linear-gradient(to right, #ff0080, #a855f7, #6366f1);
+    border-image-slice: 1;
+    border-radius: 20px;
+}
+

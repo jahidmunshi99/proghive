@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "buyer_name": "John Doe",
+      "image_url": "https://randomuser.me/api/portraits/men/1.jpg",
+      "rating": 5,
+      "review": "Excellent service! The delivery was quick, and the quality was top-notch."
+    },
+    {
+      "id": 2,
+      "buyer_name": "Emily Smith",
+      "image_url": "https://randomuser.me/api/portraits/women/2.jpg",
+      "rating": 1.5,
+      "review": "Great work! A little delay, but the end product was fantastic."
+    },
+    {
+      "id": 3,
+      "buyer_name": "Michael Brown",
+      "image_url": "https://randomuser.me/api/portraits/men/3.jpg",
+      "rating": 4,
+      "review": "Good job overall. Communication could be improved."
+    },
+    {
+      "id": 4,
+      "buyer_name": "Sophia Wilson",
+      "image_url": "https://randomuser.me/api/portraits/women/4.jpg",
+      "rating": 5,
+      "review": "Absolutely amazing work! Highly recommended."
+    },
+    {
+      "id": 5,
+      "buyer_name": "James Anderson",
+      "image_url": "https://randomuser.me/api/portraits/men/5.jpg",
+      "rating": 4.7,
+      "review": "Very professional and great attention to detail."
+    },
+    {
+      "id": 6,
+      "buyer_name": "Olivia Martinez",
+      "image_url": "https://randomuser.me/api/portraits/women/6.jpg",
+      "rating": 3.8,
+      "review": "Good quality, but it took longer than expected."
+    },
+    {
+      "id": 7,
+      "buyer_name": "William Thomas",
+      "image_url": "https://randomuser.me/api/portraits/men/7.jpg",
+      "rating": 4.9,
+      "review": "Perfect execution, exactly as I wanted!"
+    },
+    {
+      "id": 8,
+      "buyer_name": "Ava Johnson",
+      "image_url": "https://randomuser.me/api/portraits/women/8.jpg",
+      "rating": 5,
+      "review": "Super happy with the service. Will order again!"
+    },
+    {
+      "id": 9,
+      "buyer_name": "Ethan White",
+      "image_url": "https://randomuser.me/api/portraits/men/9.jpg",
+      "rating": 4.2,
+      "review": "Good work, but there were some minor issues that needed fixing."
+    },
+    {
+      "id": 10,
+      "buyer_name": "Mia Harris",
+      "image_url": "https://randomuser.me/api/portraits/women/10.jpg",
+      "rating": 4.6,
+      "review": "Very responsive and high-quality work. Will recommend!"
+    }
+  ]
+  

@@ -1,0 +1,20 @@
+.gradient-button {
+    /* font-size: 1rem;
+    font-weight: bold;
+    color: white;
+    padding: 12px 32px;
+    border-radius: 50px; */
+    border: 2px solid transparent;
+    background: linear-gradient(#000, #000) padding-box, 
+                linear-gradient(to right, #007bff, #ff0080) border-box;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  /* .gradient-button:hover {
+    background: linear-gradient(to right, #007bff, #ff0080);
+    color: white;
+    border: 2px solid transparent;
+  } */
