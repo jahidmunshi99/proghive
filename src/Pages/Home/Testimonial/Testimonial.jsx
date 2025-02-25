@@ -12,7 +12,7 @@ const Testimonial = () => {
     <div className='bg-slate-900'>
       <Container>
         <SectionTitle title={"Testimonial"}/>
-        <SwiperTestimonial/>
+        <div className='pt-8'><SwiperTestimonial/></div>
       </Container>
     </div>
   )

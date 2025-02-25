@@ -12,7 +12,7 @@ const ServiceSection = () => {
 
 
   return (
-    <div className='bg-slate-900'>
+    <div className='bg-gray-800'>
       <Container>
         <div className='relative'>
           <SectionTitle title="My Service"/>
@@ -34,7 +34,7 @@ const ServiceSection = () => {
             sDetails={wordpressDetails}
           />
           {/* Vertical Connecting Line */}
-          <div className="absolute md:left-1/2 md:bottom-[265px] md:h-[80px] w-0.5 bg-gray-700 hidden md:block"></div>
+          <div className="absolute md:left-1/2 md:bottom-[186px] md:h-[80px] w-0.5 bg-gray-700 hidden md:block"></div>
           
           {/**WebDesign Service */}
           <ServiceItem

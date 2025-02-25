@@ -4,7 +4,7 @@ import Container from '../../../Components/Common/Container'
 
 const Faq = () => {
   return (
-    <div className='bg-slate-900'>
+    <div className='bg-slate-800'>
         <Container>
             <SectionTitle title={"FAQ"}/>
             <div className="join join-vertical w-full">
